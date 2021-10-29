@@ -31,12 +31,12 @@ Estoy interesado en sumergirme en el sector privado y trabajar dentro de una emp
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Sublime Text</strong></span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/880/1*y3vXLWEh9kTA8dFgzeLnhQ.png">
+        <span><strong>npm</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Tailwind CSS</strong></span><br><br><br>
-        <img height="64px" src="https://www.atsistemas.com/dam/jcr:20b575da-1767-43dc-b18f-4f2a9f722877/1375-775-tailwind-css.png">
+        <span><strong>JavaScript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
