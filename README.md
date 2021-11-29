@@ -6,7 +6,7 @@
 
 Hola! Soy Lucas, actualmente soy Desarrollador Web Freelance. 
 Estoy capacitandome en CoderHouse para obtener nuevas herramientas de FrontEnd, para luego centrarme en BackEnd y llegar a mi titulo de Fullstack.
-Manejo HTML5, CSS, SASS, Git, Bootstrap y estoy aprendiendo y especializando en javascript con React js.
+Manejo HTML5, CSS, JavaScript, SASS, Git, Bootstrap y estoy especializandome en React Js.
 Estoy interesado en sumergirme en el sector privado y trabajar dentro de una empresa.
 
 <table>
