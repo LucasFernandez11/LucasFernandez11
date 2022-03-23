@@ -82,5 +82,5 @@ Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase
   </tbody>
 </table>
 
-#### where to find me
+#### donde encontrarme
 -[linkedin] (https://www.linkedin.com/in/fernandezlucas-it/)
