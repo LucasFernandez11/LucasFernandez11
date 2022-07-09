@@ -73,10 +73,7 @@ Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase
         <span><strong>Syncfusion</strong></span><br><br><br>
         <img height="100px" src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Microsoft .Net</strong></span><br><br><br>
-        <img height="100px" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png">
-      </td>      
+      
     </tr>
 
   </tbody>
