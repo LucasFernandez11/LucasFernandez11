@@ -73,8 +73,7 @@ Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase
         <span><strong>Syncfusion</strong></span><br><br><br>
         <img height="100px" src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png">
       </td>
-      
-    </tr>
+      </tr>
 
   </tbody>
 </table>
