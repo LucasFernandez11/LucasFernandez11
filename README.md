@@ -4,9 +4,9 @@
 **LucasFernandez11/**
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Hola! Me llamo Lucas, Soy Desarrollador Jr en la empresa ZeroBug!!<br> 
-Actualmente estoy capacitandome en CoderHouse para obtener nuevas herramientas de front, y luego poder centrarme en BackEnd y llegar a completar mi Fullstack.<br>
-Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase, React JS y estoy capacitandome gracias a ZeroBug en unos cursos de Udemy para Angular, C# y SQL, donde tambien me sumerjo en el mundo de .Net
+Hola! Me llamo Lucas y soy Desarrollador en la empresa ZeroBug!!<br> 
+Ademas actualmente cumplo el rol de tutor en CoderHouse en el curso de desarrollo web <br>
+Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase, React JS y Angular, tambien sigo capacitandome gracias a ZeroBug en las tecnologias de C# y SQL (entre otras), donde puedo sumergirme en el mundo de .Net, desarrollando aplicaciones innovadoras junto con un gran equipo de profesionales.
 
 <table>
   <tbody>
