@@ -1,12 +1,19 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+<div>
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="25%" align="left" src="https://user-images.githubusercontent.com/89951452/179384185-cdd057d3-7d47-44a3-ad97-bfbfef1183de.jpg"/>
 
-**LucasFernandez11/**
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</div>
 
-Hola! Me llamo Lucas y soy Desarrollador en la empresa ZeroBug!!<br> 
+
+**LucasFernandez11**
+
+
+
+<p>Hola! Me llamo Lucas y soy Desarrollador en la empresa ZeroBug!!<br> 
 Ademas actualmente cumplo el rol de tutor en CoderHouse en el curso de desarrollo web <br>
-Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase, React JS y Angular, tambien sigo capacitandome gracias a ZeroBug en las tecnologias de C# y SQL (entre otras), donde puedo sumergirme en el mundo de .Net, desarrollando aplicaciones innovadoras junto con un gran equipo de profesionales.
+Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase, React JS y Angular, tambien sigo capacitandome gracias a ZeroBug en las tecnologias de C# y SQL (entre otras), donde puedo sumergirme en el mundo de .Net, desarrollando aplicaciones innovadoras junto con un gran equipo de profesionales.</p>
 
 <table>
   <tbody>
