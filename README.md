@@ -80,6 +80,14 @@ Manejo HTML5, CSS3, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase
         <span><strong>Syncfusion</strong></span><br><br><br>
         <img height="100px" src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png">
       </td>
+      <td width="25%" align="center">
+        <span><strong>SQL Server</strong></span><br><br><br>
+        <img height="100px" src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Entity Framework</strong></span><br><br><br>
+        <img height="100px" src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png">
+      </td>
       </tr>
 
   </tbody>
