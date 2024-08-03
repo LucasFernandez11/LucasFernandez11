@@ -14,7 +14,7 @@
 <p>Hola! Me llamo Lucas y soy Desarrollador Fullstack!<br>
 Trabajo en la empresa T-soft como desarrollador para aplicaciones bancarias y como consultor de front-end en otras empresas<br>
 Ademas cumplo el rol de tutor en CoderHouse en el curso de desarrollo web, Javascript y Angular <br>
-	Tambien soy Profesor de FrontEnd en la universidad tres de febrero.  <br>
+	Tambien fui Profesor de FrontEnd en la universidad tres de febrero.  <br>
 Manejo HTML5, CSS3, Figma, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, Firebase, React JS, Angular, C#, SQL, .NET y actualmente desarrollandome como programador Java</p>
 
 <table>
