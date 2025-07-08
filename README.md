@@ -51,8 +51,8 @@ Manejo HTML5, CSS3, Figma, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, F
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><strong>Tailwind CSS</strong></span><br><br><br>
+        <img height="64px" src="https://handwiki.org/wiki/images/thumb/9/95/Tailwind_CSS_logo.svg/1200px-Tailwind_CSS_logo.svg.png">
       </td>
     </tr>
     <tr valign="top">
@@ -66,11 +66,11 @@ Manejo HTML5, CSS3, Figma, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, F
       </td>
       <td width="25%" align="center">
         <span><strong>Firebase</strong></span><br><br><br>
-        <img height="100px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.png">
+        <img height="100px" src="https://camo.githubusercontent.com/cbd91ee40ab4f8bb9989bef2e09bbdb1962993198a399176713756c0a10d67b6/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f66697265626173652d6c6f676f2e706e67">
       </td>
       <td width="25%" align="center">
         <span><strong>Angular</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png">
+        <img height="100px" src="https://miro.medium.com/v2/resize:fit:1400/1*Klh1l7wkoG6PDPb9A5oCHQ.png">
       </td>
     </tr>
     <tr valign="top">
@@ -84,7 +84,7 @@ Manejo HTML5, CSS3, Figma, JavaScript (ES6), TypeScript, SASS, Git, Bootstrap, F
       </td>
       <td width="25%" align="center">
         <span><strong>SQL Server</strong></span><br><br><br>
-        <img height="100px" src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png">
+        <img height="100px" src="https://www.vhv.rs/dpng/d/79-799586_microsoft-sql-server-logo-hd-png-download.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Entity Framework</strong></span><br><br><br>
